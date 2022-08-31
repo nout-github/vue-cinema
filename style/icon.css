@@ -1,0 +1,12 @@
+.icon_menu::before{
+    content: '\f142';
+    font-weight: 900;
+    position: absolute;
+    color: var(--extra);
+}
+
+.icon_menu::after{
+    content: '\10f142';
+    font-weight: 900;
+    color: var(--text);
+}
